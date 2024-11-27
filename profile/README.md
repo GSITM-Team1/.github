@@ -20,4 +20,6 @@
   - open api 호출 후 받은 데이터를 기반으로 대시보드에 정보를 보여줌
  
 - 시연 영상
-  - 
+  <p align="center>
+![캐스퐁 시연영상](https://github.com/user-attachments/assets/64ddd14e-182b-49d6-925b-ec8135c7fbad)
+</p>
